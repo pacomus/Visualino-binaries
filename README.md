@@ -4,12 +4,12 @@
 <p><ul><li>Compiled binaries for Microsoft Windows XP/Vista/7/8/10/11:</li>
 <ul><li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNdMAsOxY5ozpXcfw?e=9rtW3h">Visualino_0.7.4_x32.zip</a></li>
 <li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNeERbmrQWi3vYB6w?e=a4Fpxx">Visualino_0.7.4_x64.zip</a></li></ul>
-<li>Compiled binaries for Debian:</li>
+<li>Compiled binaries for Debian/Ubuntu:</li>
 <ul><li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNcIfweh6ULwi5blg?e=WEiTCh">Visualino_0.7.4_i386.deb</a></li>
 <li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNZQvxOoDYGBu374Q?e=3RqL0z">Visualino_0.7.4_amd64.deb</a></li></ul></ul></p>
 <p><b>Download Visualino 0.7.3 (based on QtWebKit):</b></p>
 <p><ul><li>Compiled binaries for Microsoft Windows XP/Vista/7/8/10/11:</li>
 <ul><li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNffD7E2lsQaWx1ZA?e=AReIch">Visualino_0.7.3_x32.zip</a></li></ul>
-<li>Compiled binaries for Debian:</li>
+<li>Compiled binaries for Debian/Ubuntu:</li>
 <ul><li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNaD73SaVnl89-rNA?e=Ih6r3T">Visualino_0.7.3_i386.deb</a></li>
 <li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNbqPmgpI0bsSyJIA?e=C3KTPv">Visualino_0.7.3_amd64.deb</a></li></ul></ul></p>
