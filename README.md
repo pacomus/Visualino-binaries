@@ -1,6 +1,6 @@
 # Visualino-binaries
 <p>In this section you can download a compiled and ready to use version of Visualino. There are currently two major versions of Visualino: the official one based on the QtWebKit library (0.7.3) and the more modern one based on the QtWebEngine library (0.7.4). There are no differences between these two versions regarding the use of the program, since both include the same type of blocks. The QtWebKit library has been deprecated on Windows, so it is assumed that in the future it will disappear completely in favor of QtWebEngine. This is why there is no 64-bit version of Visualino 0.7.3 for Windows. However, QtWebKit is still used on GNU/Linux systems, together with QtWebEngine.</p>
-<p>Visualino needs <a href="https://www.arduino.cc/en/software">Arduino IDE (1.6 or newer)</a> and Microsoft Visual C++ Redisributable 2017.</p>
+<p>Visualino needs <a href="https://www.arduino.cc/en/software">Arduino IDE (1.6 or newer)</a> and <a href="https://learn.microsoft.com/es-es/cpp/windows/latest-supported-vc-redist?view=msvc-170">Microsoft Visual C++ Redisributable 2017</a>.</p>
 <p><b>Download Visualino 0.7.4 (based on QtWebEngine):</b></p>
 <p><ul><li>Compiled binaries for Microsoft Windows XP/Vista/7/8/10/11:</li>
 <ul><li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iftJ8gj_UVT8XDIhtA?e=f2I6cR">Visualino_0.7.4_x32.zip</a></li>
