@@ -14,4 +14,4 @@
 <li>Compiled binaries for Debian/Ubuntu:</li>
 <ul><li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNaD73SaVnl89-rNA?e=Ih6r3T">Visualino_0.7.3_i386.deb</a></li>
 <li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNbqPmgpI0bsSyJIA?e=C3KTPv">Visualino_0.7.3_amd64.deb</a></li></ul></ul></p>
-<p>Yes, Visualino still works on Windows XP systems and we still have support for them, because we consider that it is important to support schools and educational centers that have limited resources.</p>
+<p>Yes, Visualino still works on Windows XP systems and we will continue to offer support for them because we believe it is important to help schools and educational centers that have limited resources, in addition to contribute to preserve the environment.</p>
