@@ -3,8 +3,8 @@
 <p>Visualino needs <a href="https://www.arduino.cc/en/software">Arduino IDE (1.6 or newer)</a> and <a href="https://learn.microsoft.com/es-es/cpp/windows/latest-supported-vc-redist?view=msvc-170">Microsoft Visual C++ Redisributable 2017</a> (for Windows systems).</p>
 <p><b>Download Visualino 0.7.4 (based on QtWebEngine):</b></p>
 <p><ul><li>Compiled binaries for Microsoft Windows XP/Vista/7/8/10/11:</li>
-<ul><li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iftLzkmQbPbLlQ-N2w?e=kRHQj1">Visualino_0.7.4_x32.zip</a></li>
-<li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iftKeoiBdFOLpbGNDw?e=R7gYKI">Visualino_0.7.4_x64.zip</a></li></ul>
+<ul><li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1i69vObnPzy58ggkupg?e=Op6tho">Visualino_0.7.4_x32.zip</a></li>
+<li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1i69w8YXmCLJe3H-_rw?e=ZhVh61">Visualino_0.7.4_x64.zip</a></li></ul>
 <li>Compiled binaries for Debian/Ubuntu:</li>
 <ul><li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNcIfweh6ULwi5blg?e=WEiTCh">Visualino_0.7.4_i386.deb</a></li>
 <li><a href="https://1drv.ms/u/s!AqT3LJvsLk-1iZNZQvxOoDYGBu374Q?e=3RqL0z">Visualino_0.7.4_amd64.deb</a></li></ul></ul></p>
